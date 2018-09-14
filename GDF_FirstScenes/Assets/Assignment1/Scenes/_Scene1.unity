@@ -845,7 +845,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7385b9dfcd72f95489c627fbd9dbf208, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  thrust: 1500
+  thrust: 1750
   rb: {fileID: 59868667}
 --- !u!1001 &1696759301
 Prefab:
